@@ -7,8 +7,8 @@ method Amogus(a : array<int>) returns (h : int)
 
 
 
-method Test(a : array<int>) returns ()
-{
-    assert a == null;
-    assert a.Length > 0;
-}
+// method Test(a : array<int>) returns ()
+// {
+//     assert a == null;
+//     assert a.Length > 0;
+// }
