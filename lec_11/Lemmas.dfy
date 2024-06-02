@@ -222,3 +222,10 @@ lemma CaseGreater(a : array<int>, b : array<int>, m : nat, n : nat)
 {
     FundamentalMultiset(b, n);
 }
+
+
+method Test(x : nat, y : nat, z : nat)
+    
+{
+    Test(x - 1, y, z);
+}
